@@ -105,3 +105,17 @@ body{
     gap: 20px;
     color: rgba(22, 22, 22, 0.8);
 }
+/* Footer Style */
+.footer{
+    height: 250px;
+    background-color: black;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+.footer ul{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
